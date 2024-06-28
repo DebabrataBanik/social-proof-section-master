@@ -6,7 +6,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [Build With](#build-with)
+- [Built With](#built-with)
 
 ### Screenshot
 
@@ -17,7 +17,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [Live Site URL](https://debabratabanik.github.io/social-proof-section-master/)
 - [Challenge Solution URL](https://www.frontendmentor.io/solutions/socialproofsectionmaster-G3oE9yw7Sb)
 
-### Build With
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
